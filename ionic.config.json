@@ -1,0 +1,7 @@
+{
+  "name": "Turksat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

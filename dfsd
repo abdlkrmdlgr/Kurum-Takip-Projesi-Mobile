@@ -1,0 +1,119 @@
+[33mcommit e4a3688a336148d1ff905c80703eb513af5362be[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Wed Sep 15 08:48:29 2021 +0300
+
+    yazım hatası düzeltildi
+
+[33mcommit 4624024c3646dc5cedcd9060bca58d636113ebca[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Tue Sep 14 16:36:57 2021 +0300
+
+    env
+
+[33mcommit 614f4d0b6191d4cedd5b6f281be435d3c8163c0c[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Tue Sep 14 08:10:34 2021 +0300
+
+    resim boyutu duzeltildi
+
+[33mcommit fca04f837eb77cd9e53c03f8d948c079b8380a8e[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Tue Sep 14 07:47:11 2021 +0300
+
+    sıralama özelliği eklendi
+
+[33mcommit 64dce9221284c1d3125898aea9ce3dc8a3a4b8d6[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Mon Sep 13 23:09:16 2021 +0300
+
+    kod hizalama
+
+[33mcommit 21d8b49ca40ad15160b1e87b7b3f391c5094214e[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Mon Sep 13 22:57:44 2021 +0300
+
+    yorum satırı kaldırıldı
+
+[33mcommit 140c28b144e6e69240c94a3e66799d826ee0c39f[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Mon Sep 13 22:55:50 2021 +0300
+
+    çıkış ekranına eminmisin eklendi
+
+[33mcommit 9a9301a0e763b0f57a988dec7383e2751c3ece8d[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Thu Sep 9 15:52:29 2021 +0300
+
+    giriş sayfasındaki ve detay sayfasındaki sayfalarra yükleniyor eklendi
+
+[33mcommit 1d3ef19a904541f9482daa35d67a28ac5c9cd8fe[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Thu Sep 9 15:36:57 2021 +0300
+
+    yenileniyor eklendi
+
+[33mcommit 5a76e95f05354e01dc0bf3eef814146475a59b96[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Thu Sep 9 15:16:55 2021 +0300
+
+    giriş sayfası ortalandı
+
+[33mcommit e6f19d394c7f28d1319aa2a54decd93123d35c7f[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Thu Sep 9 14:29:29 2021 +0300
+
+    Authorization
+
+[33mcommit 3d08b9e1164b98ac72303295104453443a3c7f7e[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Tue Sep 7 21:57:52 2021 +0300
+
+    arama özelliği eklendi
+
+[33mcommit 00c6a071b075755eec399d3c78a130ca2d57111f[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Tue Sep 7 16:10:51 2021 +0300
+
+    yenileme yapması  sağlandı
+
+[33mcommit 1e32715d667def8565e175d15ef50f68bf422c6f[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Tue Sep 7 10:17:27 2021 +0300
+
+    yükleniyor ekranı eklendi
+
+[33mcommit fa6c5951807fc266e706450720000188f7b6f865[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Tue Sep 7 10:04:18 2021 +0300
+
+    detay sayfasında yazılırın yeri ortalandı
+
+[33mcommit b223e093fe0c18b67619235a515ae6c73afafb20[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Mon Sep 6 17:32:40 2021 +0300
+
+    strapi dahil edildi
+
+[33mcommit c61dcd043f257eb784162192472401c4416006da[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Fri Sep 3 09:04:59 2021 +0300
+
+    emoji mutsuz olarak değiştirildi
+
+[33mcommit caf8b66ccb7db8b4b67f13d91925ca260876ee1b[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Fri Sep 3 09:02:09 2021 +0300
+
+    data geçici olarak sıralandı
+
+[33mcommit a90f1a863c88633810b1a6ee9767336250bed24b[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Thu Sep 2 09:26:18 2021 +0300
+
+    giriş sayfası eklendi
+
+[33mcommit e0e0c0454b0bc0bb7fa3599cd68c91d11cd2a160[m
+Author: İhsan Berk Özcan <ihsanberkozcan@gmail.com>
+Date:   Wed Sep 1 16:51:53 2021 +0300
+
+    initial commit
