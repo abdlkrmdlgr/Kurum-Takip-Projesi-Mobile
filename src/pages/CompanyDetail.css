@@ -38,3 +38,6 @@
 #view-message-page p {
   line-height: 22px;
 }
+small {
+  font-size: smaller;
+}
